@@ -2,7 +2,8 @@
 
 ## Pembelajaran OOP dalam PHP
 
-Author : muchlas12@gmail.com  github : <https://www.github.com/Alfiyanm>
+> Author : muchlas12@gmail.com
+> github : <https://www.github.com/Alfiyanm>
 
  list of docs:
 1. object & class
