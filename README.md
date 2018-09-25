@@ -11,3 +11,7 @@
 4. magic method & magic constant
 5. encapsulation
 6. setter & getter
+
+ #--- Steve McConnel ---#
+ Suatu aplikasi yang besar (kompleks) didesain sedemikian rupa, sehingga kompleksitasnya dibagi menjadi unit-unit kecil yang lebih mudah dan dapat dikerjakan.
+ #----------------------#
