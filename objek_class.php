@@ -95,3 +95,16 @@
     /**
      * 7. Membuat beberapa objek dari suatu class
      */
+
+     class Komputer {
+         public $merk = '';
+         public $harga = '';
+         public $fungsi = '';
+     }
+
+     $komputer = new Komputer();
+     $komputer->merk = 'Toshiba';
+     $komputer->harga = 1000000;
+     $komputer->fungsi = 'hacking';
+
+     echo "Aku punya " . $komputer->merk . " harganya " . $komputer->harga . " ku gunakan untuk " . $komputer->fungsi;
