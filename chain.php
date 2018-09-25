@@ -1,10 +1,7 @@
 <?php
 
     /**
-     * program ini tanpa method chaining 
-     * buka (jarak2.php) untuk penerapan method chaining
-     * 
-     * 
+     * 1. Tanpa Method Chaining 
      */
     class Mobil {
 
@@ -28,9 +25,7 @@
         echo "Sisa Bensin = " . $sisaBensin . " liter.";
 
         /** 
-         * ini adalah penerapan method chaining pada sebuah objek
-         * 
-         * 
+         * 2. Dengan Method Chaining
          */
         class Truk {
 
