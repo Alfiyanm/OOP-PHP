@@ -102,9 +102,16 @@
          public $fungsi = '';
      }
 
-     $komputer = new Komputer();
-     $komputer->merk = 'Toshiba';
-     $komputer->harga = 1000000;
-     $komputer->fungsi = 'hacking';
+     $komputer1 = new Komputer();
+     $komputer1->merk = 'Toshiba';
+     $komputer1->harga = 10000000;
+     $komputer1->fungsi = 'hacking';
 
-     echo "Aku punya " . $komputer->merk . " harganya " . $komputer->harga . " ku gunakan untuk " . $komputer->fungsi;
+     echo "Aku punya " . $komputer1->merk . " harganya " . $komputer1->harga . " ku gunakan untuk " . $komputer1->fungsi;
+
+     $komputer2 = new Komputer();
+     $komputer2->merk = 'Lenovo';
+     $komputer2->harga = 50000000;
+     $komputer2->fungsi = 'gaming';
+     echo "Teman ku punya " . $komputer2->merk . " harganya " . $komputer2->harga . " dia gunakan untuk " . $komputer2->fungsi;
+     
