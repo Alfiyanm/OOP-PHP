@@ -4,7 +4,7 @@
 
  Author : muchlas12@gmail.com
 
- list of course:
+ list of docs:
 1. object & class
 2. method $this
 3. chaining

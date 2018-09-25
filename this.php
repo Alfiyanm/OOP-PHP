@@ -1,4 +1,10 @@
 <?php
+    
+    /**
+     * -------------------------- Keyword $this -------------------------- 
+     *      berfungi untuk mengakses suatu property dari dalam class itu sendiri, bukan dari luar class.
+     */
+
 
     /**
      * 1. Keyword $this untuk Property
