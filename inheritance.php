@@ -122,3 +122,5 @@
      $dreamCruise = new KapalPesiar();
      $dreamCruise->setMerk('Dream Cruise');
      echo $dreamCruise->halo();
+
+     
