@@ -2,10 +2,11 @@
 
     /**
      * --------------------- Inheritance --------------------------
-     *      - Inheritance adalah kemampuan untuk mengurangi duplikasi kode program.
+     *      - Inheritance adalah kemampuan untuk mengurangi duplikasi
+     *        kode program.
      *      - secara bahasa dikenal juga dengan 'pewarisan'.
-     *      - untuk membuat inheritance, atau class yang menurun dari class lainnya,
-     *        kita menggunakan keyword 'extends'
+     *      - untuk membuat inheritance, atau class yang menurun dari
+     *        class lainnya, kita menggunakan keyword 'extends'
      * 
      */
 
